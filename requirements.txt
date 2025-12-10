@@ -1,1 +1,5 @@
-
+DEPENDENCIES:
+pybullet, 
+numpy, 
+pandas,
+scikit-learn
