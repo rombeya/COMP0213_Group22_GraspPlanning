@@ -51,6 +51,8 @@ Open the jupyter notebook file (projectOOP.ipynb). Run the first cell, then the 
 The first cell contains all the definitions whilst the second cell runs the full pipleine.
 The output should show all grasps, training and testing phase results, and the final results.
 
+Also, download the urdfs and keep within the same directory
+
 ## Configuration
 
 ### Gripper-Object Combinations
